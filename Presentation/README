@@ -16,8 +16,7 @@
 - Chapter 34: Process Groups, Sessions, and Job Control, Chapter 35: Process Priorities and Scheduling, Chapter 36: Process Resources
 - Chapter 41: Fundamentals of Shared Libraries, Chapter 43: Interprocess Communication Overview, Chapter 44: Pipes and FIFOs
 - Chapter 49: Memory Mappings, Chapter 50: Virtual Memory Operations
-- Chapter 51: Introduction to POSIX IPC, Chapter 52: POSIX Message Queues, Chapter 53: POSIX Semaphores, Chapter 54: POSIX Shared Memory,
-Chapter 55: File Locking
+- Chapter 51: Introduction to POSIX IPC, Chapter 52: POSIX Message Queues, Chapter 53: POSIX Semaphores, Chapter 54: POSIX Shared Memory, Chapter 55: File Locking
 - Chapter 56: Sockets: Introduction, Chapter 57: Sockets: UNIX Domain, Chapter 58: Sockets: Fundamentals of TCP/IP Networks
 
 
