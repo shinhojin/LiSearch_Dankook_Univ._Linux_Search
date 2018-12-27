@@ -8,8 +8,9 @@
 발표자 뿐만 아니라 모든 참석 학생들은 해장 장의 내용을 읽어보고 실습가지 진행해 본 후 참석하도록 합시다.
 
 - Chapter 2: Fundamental Concepts (by 전영서),  Chapter 3: System Programming Concepts (by 이상민, 이제연)
-- Chapter 4: File I/O: The Universal I/O Model, Chapter 5: File I/O: Further Details, Chapter 13: File I/O Buffering, Chapter 14: File Systems 
+- Chapter 4: File I/O: The Universal I/O Model (by 박민혁, 홍승기), Chapter 5: File I/O: Further Details (by 남호철, 박재원)
 - Chapter 6: Processes, Chapter 7: Memory Allocation
+- Chapter 13: File I/O Buffering, Chapter 14: File Systems 
 - Chapter 20: Signals: Fundamental Concepts, Chapter 21: Signals: Signal Handlers, Chapter 23: Timers and Sleeping
 - Chapter 24: Process Creation, Chapter 25: Process Termination, Chapter 26: Monitoring Child Processes
 - Chapter 27: Program Execution, Chapter 29: Threads: Introduction, Chapter 30: Threads: Thread Synchronization
