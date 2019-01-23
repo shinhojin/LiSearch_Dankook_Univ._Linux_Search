@@ -11,9 +11,11 @@
 - Chapter 4: File I/O: The Universal I/O Model (by 박민혁, 홍승기), Chapter 5: File I/O: Further Details (by 남호철, 박재원)
 - Chapter 6: Processes (by 신호진, 이성현), Chapter 7: Memory Allocation (by 이수경 이시온)
 - Chapter 13: File I/O Buffering (by 여승현, 문성현), Chapter 14: File Systems (by 권보윤, 최광진)
-- Chapter 20: Signals: Fundamental Concepts (by 남호철, 박재원), Chapter 21: Signals: Signal Handlers, Chapter 23: Timers and Sleeping
-- Chapter 24: Process Creation, Chapter 25: Process Termination, Chapter 26: Monitoring Child Processes
-- Chapter 27: Program Execution, Chapter 29: Threads: Introduction, Chapter 30: Threads: Thread Synchronization
+- Chapter 20: Signals: Fundamental Concepts (by 남호철, 박재원), Chapter 21: Signals: Signal Handlers (by 이제연, 이상민) 
+- Chapter 23: Timers and Sleeping (스킵)
+- Chapter 24: Process Creation (by 신호진, 이성현), Chapter 25: Process Termination (by 조창현)
+- Chapter 26: Monitoring Child Processes (by 박민혁, 홍승기, 이제연)
+- Chapter 27: Program Execution (by 이시온, 이수경), Chapter 29: Threads: Introduction, Chapter 30: Threads: Thread Synchronization
 - Chapter 34: Process Groups, Sessions, and Job Control, Chapter 35: Process Priorities and Scheduling, Chapter 36: Process Resources
 - Chapter 41: Fundamentals of Shared Libraries, Chapter 43: Interprocess Communication Overview, Chapter 44: Pipes and FIFOs
 - Chapter 49: Memory Mappings, Chapter 50: Virtual Memory Operations
