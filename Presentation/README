@@ -15,7 +15,7 @@
 - Chapter 23: Timers and Sleeping (스킵)
 - Chapter 24: Process Creation (by 신호진, 이성현), Chapter 25: Process Termination (by 조창연)
 - Chapter 26: Monitoring Child Processes (by 박민혁, 홍승기, 이제연)
-- Chapter 27: Program Execution (by 이시온, 이수경), Chapter 29: Threads: Introduction, Chapter 30: Threads: Thread Synchronization
+- Chapter 27: Program Execution (by 이시온, 이수경), Chapter 29: Threads: Introduction (by 문성현, 여승현), Chapter 30: Threads: Thread Synchronization (by 박재원, 남호철) 
 - Chapter 34: Process Groups, Sessions, and Job Control, Chapter 35: Process Priorities and Scheduling, Chapter 36: Process Resources
 - Chapter 41: Fundamentals of Shared Libraries, Chapter 43: Interprocess Communication Overview, Chapter 44: Pipes and FIFOs
 - Chapter 49: Memory Mappings, Chapter 50: Virtual Memory Operations
