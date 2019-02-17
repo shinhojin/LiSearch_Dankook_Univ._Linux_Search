@@ -15,13 +15,18 @@
 - Chapter 23: Timers and Sleeping (스킵)
 - Chapter 24: Process Creation (by 신호진, 이성현), Chapter 25: Process Termination (by 조창연)
 - Chapter 26: Monitoring Child Processes (by 박민혁, 홍승기, 이제연)
-- Chapter 27: Program Execution (by 이시온, 이수경), Chapter 29: Threads: Introduction (by 문성현, 여승현), Chapter 30: Threads: Thread Synchronization (by 박재원, 남호철) 
-- Chapter 34: Process Groups, Sessions, and Job Control, Chapter 35: Process Priorities and Scheduling, Chapter 36: Process Resources
-- Chapter 41: Fundamentals of Shared Libraries, Chapter 43: Interprocess Communication Overview, Chapter 44: Pipes and FIFOs
-- Chapter 49: Memory Mappings, Chapter 50: Virtual Memory Operations
-- Chapter 51: Introduction to POSIX IPC, Chapter 52: POSIX Message Queues, Chapter 53: POSIX Semaphores, Chapter 54: POSIX Shared Memory, Chapter 55: File Locking
-- Chapter 56: Sockets: Introduction, Chapter 57: Sockets: UNIX Domain, Chapter 58: Sockets: Fundamentals of TCP/IP Networks
+- Chapter 27: Program Execution (by 이시온, 이수경), Chapter (29->34, vol.2_ch1): Threads: Introduction (by 문성현, 여승현)
+- Chapter (30->35 vol.2_ch2): Threads: Thread Synchronization (by 박재원, 남호철) 
+- Chapter (34->29): Process Groups, Sessions, and Job Control, Chapter (35->30): Process Priorities and Scheduling
+- Chapter (36->31): Process Resources
+- Chapter (41->36): Fundamentals of Shared Libraries, Chapter (43->vol.2_ch6): Interprocess Communication Overview
+- Chapter (44->vol.2_ch7): Pipes and FIFOs
+- Chapter (49->vol.2_ch12): Memory Mappings, Chapter (50->vol.2_ch13): Virtual Memory Operations
+- Chapter (51->vol.2_ch14): Introduction to POSIX IPC, Chapter (52->vol.2_ch15): POSIX Message Queues
+- Chapter (53->vol.2_ch16): POSIX Semaphores, Chapter (54->vol.2_ch17): POSIX Shared Memory, Chapter (55->vol.2_ch18): File Locking
+- Chapter (56->vol.2_ch19): Sockets: Introduction, Chapter (57->vol.2_ch20): Sockets: UNIX Domain
+- Chapter (58->vol.2_ch21): Sockets: Fundamentals of TCP/IP Networks
 
-
+- 현재 chapter 옆에 괄호치고 안에 있는 것은 번역본 기준 순서입니다. 공부할 때 참고하시고 읽어주세요.
 
 
