@@ -14,10 +14,11 @@
 - Chapter 20: Signals: Fundamental Concepts (by 남호철, 박재원), Chapter 21: Signals: Signal Handlers (by 이제연, 이상민) 
 - Chapter 23: Timers and Sleeping (스킵)
 - Chapter 24: Process Creation (by 신호진, 이성현), Chapter 25: Process Termination (by 조창연)
-- Chapter 26: Monitoring Child Processes (by 박민혁, 홍승기, 이제연)
+- Chapter 26: Monitoring Child Processes (by 박민혁, 이제연)
 - Chapter 27: Program Execution (by 이시온, 이수경), Chapter (29->vol.2_ch1): Threads: Introduction (by 문성현, 여승현)
 - Chapter (30->vol.2_ch2): Threads: Thread Synchronization (by 박재원, 남호철) 
-- Chapter (34->29): Process Groups, Sessions, and Job Control, Chapter (35->30): Process Priorities and Scheduling
+- Chapter (34->29): Process Groups, Sessions, and Job Control
+- Chapter (35->30): Process Priorities and Scheduling
 - Chapter (36->31): Process Resources
 - Chapter (41->36): Fundamentals of Shared Libraries, Chapter (43->vol.2_ch6): Interprocess Communication Overview
 - Chapter (44->vol.2_ch7): Pipes and FIFOs
