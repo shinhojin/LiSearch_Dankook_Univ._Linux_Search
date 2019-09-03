@@ -1,3 +1,0 @@
-Github 사용법강좌 사이트
-
-- http://www.inflearn.com/course/github-기본기-10분/
