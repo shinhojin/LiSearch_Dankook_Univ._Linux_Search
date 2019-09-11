@@ -1,7 +1,7 @@
 Textbook : Linux Kernel Development (Third Edition)
            study with some paper
 
-Schedule : one day of week (date not set)
+Schedule : one day of week (Fri. 17:30. 미디어 508호)
 
 Textbook Index
 - ch1: Introduction to the Linux Kernel
