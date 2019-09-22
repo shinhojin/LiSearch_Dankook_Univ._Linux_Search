@@ -29,6 +29,7 @@ Textbook Index
 
 Paper List (not set)
 - Scheduling
+          
           * Carl A. Waldspurger and William E. Weihl, “Lottery Scheduling: Flexible Proportional-Share Resource Management,” OSDI, 1994. (by 신호진)
           
           * Jean-Pierre Lozi, Baptiste Lepers, Justin Funston, Fabien Gaud, Vivien Quema, and Alexandra Fedorova, “The Linux Scheduler: a Decade of Wasted Cores,” EuroSys, 2016. (by 오동건)
