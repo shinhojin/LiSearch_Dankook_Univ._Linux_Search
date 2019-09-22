@@ -5,3 +5,10 @@
 - Jean-Pierre Lozi, Baptiste Lepers, Justin Funston, Fabien Gaud, Vivien Quema, and Alexandra Fedorova, “The Linux Scheduler: a Decade of Wasted Cores,” EuroSys, 2016. (by 오동건)
 - John Osterhout, “Why Threads Are A Bad Idea (for most purposes),” 1995.
 - Rob von Behren, Jeremy Condit, and Eric Brewer, “Why Events Are A Bad Idea (for high-concurrency servers),” HotOS, 2003. (by 박재원)
+
+Personal Research (by 최광진, 조민서)
+- uninterruptable & interruptable case
+- why vrun_time keep growing ? 
+
+Other proposal
+- code analysis (Xv6)
