@@ -9,6 +9,7 @@
 Personal Research (by 최광진, 조민서)
 - uninterruptable & interruptable case
 - why vrun_time keep growing ? 
+- red-black tree
 
 Other proposal
 - code analysis (Xv6)
