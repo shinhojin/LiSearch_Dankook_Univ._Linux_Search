@@ -1,0 +1,2 @@
+- Please Upload your paper review ppt
+- ppt file format : (paper_title)_(student_name).ppt
