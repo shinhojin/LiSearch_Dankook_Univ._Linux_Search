@@ -8,8 +8,8 @@ Textbook Index
 - ch2: Getting Started with the kernel
 - ch3: Process Management
 - ch4: Process Scheduling (by 최광진, 조민서)
-- ch5: System Calls
-- ch6: Kernel Data Structures
+- ch5: System Calls (by 김성민)
+- ch6: Kernel Data Structures (by 김현수)
 - ch7: Interrupts and Interrupt Handlers
 - ch8: Bottom Halves and Deferring Work
 - ch9: An Introduction to Kernel Synchronization
